@@ -1,0 +1,10 @@
+﻿  Player.cpp
+c:\users\kristopher\desktop\scriptstest\busproject1\project1\project1\player.cpp(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Items.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Player.h
+Debug\Dungeon.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Player.obj : warning LNK4042: object specified more than once; extras ignored
+  Project1.vcxproj -> C:\Users\Kristopher\Desktop\ScriptsTest\BusProject1\Project1\Debug\BusProj.exe
+  Project1.vcxproj -> C:\Users\Kristopher\Desktop\ScriptsTest\BusProject1\Project1\Debug\BusProj.pdb (Partial PDB)
