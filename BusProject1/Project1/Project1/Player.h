@@ -2,7 +2,8 @@
 #include <vector>
 #include <iostream>
 #include "Items.h"
-
+#include <fstream>
+#include <istream>
 	class Player {
 	
 		std::string name;
@@ -13,7 +14,7 @@
 	public:
 		Player();
 		Player(std::string, int, int, int, int);
-
+		Player(std::ifstream&);
 		const int getAgi() {
 			return agi;
 		}

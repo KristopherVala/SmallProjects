@@ -22,7 +22,7 @@ Dungeon::Dungeon(float levelpass){
 		dlevel = temp;
 		seed = 3;
 	}
-
+	//Room numbers
 	if (seed = 1) {
 		temp = rand() % 10 + 3;
 		rooms = temp;
